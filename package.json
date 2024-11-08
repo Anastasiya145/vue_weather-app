@@ -11,6 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.2.0",
     "sass": "^1.80.6",
     "sass-loader": "^16.0.3",
     "vue": "^3.5.12"
