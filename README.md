@@ -10,8 +10,7 @@ Welcome to the Weather App! This application allows users to search for real-tim
 - Vue.js + SASS
 
 ## 🔗 Live Demo
-
-- **Portfolio Website**: [Visit My Portfolio](https://anastasiya145.github.io/portfolio_bulma/)
+- **Portfolio Website**: [Weather App](https://anastasiya145.github.io/vue_weather-app/)
 
 ## Get in touch with me!
 
